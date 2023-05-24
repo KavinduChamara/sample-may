@@ -1,0 +1,22 @@
+.login-div {
+  max-width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin-top: 200px;
+}
+
+.login-input-div {
+  margin: auto;
+  margin-top: 20px;
+}
+
+.login-btn-div {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.login-key {
+  color: #227bd3;
+}
